@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "markpbaggett",
+    "is_private": false,
+    "title": "Rising from the Ashes Annotations",
+    "description": "A sample site using Rising from the Ashes",
+    "language": "en",
+    "slug": "rfta-annotations",
+    "creator": "markpbaggett",
+    "authors": "Mark Baggett",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-11-12T17:07:34.656Z",
+    "updated_at": "2024-11-12T17:07:34.656Z"
   }
 }
