@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "bdb2405d-3007-4c58-842f-90fd0eb6e0a3": {
+      "label": "AV File 1",
+      "file_url": "https://digital.lib.utk.edu/collections/islandora/object/rfta%3A7/datastream/MP4",
+      "duration": 1786
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Another RFTA interview"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-12T17:15:05.168Z",
+  "created_by": "markpbaggett",
+  "item_type": "Video",
+  "label": "Imported Event 1",
+  "updated_at": "2024-11-12T17:15:05.168Z",
+  "updated_by": "markpbaggett"
+}
