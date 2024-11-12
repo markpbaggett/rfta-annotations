@@ -4,17 +4,6 @@
   "set": "default",
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "text": "undefined"
-        }
-      ],
-      "tags": [],
-      "uuid": "4ee17fda-33ca-4a9a-bd11-54c2a58017dc"
-    },
-    {
       "uuid": "49a77e39-d186-42cb-b755-4094e96ff744",
       "start_time": 5.12,
       "end_time": 24.57,
